@@ -1,0 +1,8 @@
+*.sln
+.vs/
+S3put/obj/Debug/
+S3put/bin/S3put.dll
+S3put/bin/S3put.dll.config
+S3put/bin/S3put.pdb
+.vs/config/applicationhost.config
+S3put/.gitignore
